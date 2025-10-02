@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+  
+  <a href="">![](https://komarev.com/ghpvc/?username=toemuncher3000&color=f0d7bd&label=♱&base=8970)</a>
 
-<!--
-**agereivan/agereivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+<p align="center"> <img width="600" height="500" src="https://github.com/user-attachments/assets/596276e7-72ca-4d12-892e-0e3977091fec" </p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><b><a href="https://rentry.co/ivanalnst-"> rentry </a>⠀⭑⠀<a href="https://guns.lol/ivanz"> guns.lol </a>⠀⭑⠀<a href="https://pronouns.cc/@ivanz"> prns </a>⠀⭑⠀<a href="https://blccm.atabook.org/"> ata </a>⠀⭑⠀<a href="https://ivan-alnst.straw.page/"> straw </a>
+
+<p align="center">너도 마찬가지야.</p>
+
+<div align="center">
+
